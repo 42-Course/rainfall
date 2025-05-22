@@ -8,7 +8,7 @@ Welcome to **Rainfall**, the continuation of **snow-crash**, a series of hands-o
 
 |<h1>Cyber Security</h1>|
 |-|
-| <img width="500px" src="https://www.asylas.com/asylas/security-memes-our-year-end-humor-break/" alt="Cyber Security Meme"> |
+| <img width="500px" src="https://github.com/42-Course/rainfall/tree/main/meme.png" alt="Cyber Security Meme"> |
 
 
 <details>
